@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nirmal Sheth\\source\\repos\\MetaWeather.API\\MetaWeather.Orchestration.Test\\MetaWeather.Orchestration.Test.csproj",
+      "projectUniqueName": "G:\\Demo\\MetaWeather\\MetaWeather.Orchestration.Test\\MetaWeather.Orchestration.Test.csproj",
       "projectName": "MetaWeather.Orchestration.Test",
-      "projectPath": "C:\\Users\\Nirmal Sheth\\source\\repos\\MetaWeather.API\\MetaWeather.Orchestration.Test\\MetaWeather.Orchestration.Test.csproj",
+      "projectPath": "G:\\Demo\\MetaWeather\\MetaWeather.Orchestration.Test\\MetaWeather.Orchestration.Test.csproj",
       "packagesPath": "C:\\Users\\Nirmal Sheth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nirmal Sheth\\source\\repos\\MetaWeather.API\\MetaWeather.Orchestration.Test\\obj\\",
+      "outputPath": "G:\\Demo\\MetaWeather\\MetaWeather.Orchestration.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

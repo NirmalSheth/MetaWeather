@@ -42,7 +42,7 @@ namespace MetaWeather.API.Controllers
         }
 
         [HttpGet]
-        [Route("getWeatherByWoeId/{woeId}")]      
+        [Route("GetWeatherByWoeId/{woeId}")]      
         public async Task<IActionResult> GetWeatherByWOEID(int woeId)
         {
             try

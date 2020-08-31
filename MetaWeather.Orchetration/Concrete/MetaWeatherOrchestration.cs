@@ -4,17 +4,16 @@ using System.Collections.Generic;
 using System.Text;
 using MetaWeather.Entity;
 using MetaWeather.Common;
-using Microsoft.Extensions.Configuration;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-
+using Microsoft.Extensions.Configuration;
 namespace MetaWeather.Orchestration.Concrete
 {
     public class MetaWeatherOrchestration : IMetaWeatherOrchestration
     {
         private readonly IRestClient _restClient = null;
         private readonly IConfiguration _configuration = null;
-        public MetaWeatherOrchestration(IRestClient restClient,IConfiguration configuration)
+        public MetaWeatherOrchestration(IRestClient restClient, IConfiguration configuration)
         {
             _restClient = restClient;
             _configuration = configuration;

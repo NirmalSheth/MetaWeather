@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "5c8ba217fe1d4c7004dddaea3eac7af88348b72a"
+    "signature": "74df76d314f4cb01db179e20f6caff7c2e8fab19"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,16 +10,54 @@
         "dependencies": {
           "MetaWeather.Common": "1.0.0",
           "MetaWeather.Entity": "1.0.0",
-          "Newtonsoft.Json": "12.0.3",
-          "Microsoft.Extensions.Configuration.Abstractions": "2.0.0.0"
+          "Microsoft.Extensions.Configuration": "3.1.7",
+          "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "MetaWeather.Orchestration.dll": {}
         }
       },
+      "Microsoft.Extensions.Configuration/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.7": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.7": {
+        "dependencies": {
+          "System.Memory": "4.5.2",
+          "System.Runtime.CompilerServices.Unsafe": "4.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {}
+        }
+      },
       "Newtonsoft.Json/12.0.3": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.Memory/4.5.2": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
       "MetaWeather.Common/1.0.0": {
@@ -31,11 +69,6 @@
         "runtime": {
           "MetaWeather.Entity.dll": {}
         }
-      },
-      "Microsoft.Extensions.Configuration.Abstractions/2.0.0.0": {
-        "runtime": {
-          "Microsoft.Extensions.Configuration.Abstractions.dll": {}
-        }
       }
     }
   },
@@ -45,12 +78,47 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Microsoft.Extensions.Configuration/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aJrVXOiWgCdCoWi8CRCboFgtbTcv+Uc2zHXp/kumVhFlUiY8qzvCFd6XP2MB9pFNpCkI3jHPmDJlTiFlotJJ+w==",
+      "path": "microsoft.extensions.configuration/3.1.7",
+      "hashPath": "microsoft.extensions.configuration.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fLUo+diSuPOx92P1U8lh7dI+P/e/VZASnuR7ymuJbdXzP0T5/3zX17tnuhFzxTD0Y8W18pavWXOtJvJfoDmIIw==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.7",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-43jrebrxMWkf78C/nNA4tifjILJfmlaMU54nASvpSqilpKydWddJjZBWHT98VCv3wDeZrEmeNU65Sbfm8cvACA==",
+      "path": "microsoft.extensions.primitives/3.1.7",
+      "hashPath": "microsoft.extensions.primitives.3.1.7.nupkg.sha512"
+    },
     "Newtonsoft.Json/12.0.3": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-aTRmXwR5xYu+mWxE8r8W1DWnL02SeV8LwdQMsLwTWP8OZgrCCyTqvOAe5hRb1VNQYXjln7qr0PKpSyO/pcc19Q==",
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ohf9h6em5CjPaAzupGtW/TWMzX6aVfIGPh7bq5KQmfvYJr+DqvOa0cRS9ggFKGIuvKTModCQEacGC/CwE8j7cg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yNeB/qz3nz7/wcIxqEvrD6HoafvqodlLo+hNt1r+kV4EXDnOBZMx/kiVZTTc69zVT9l6sZnmoJC93FJQ4gjuUg==",
+      "path": "system.runtime.compilerservices.unsafe/4.7.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
     },
     "MetaWeather.Common/1.0.0": {
       "type": "project",
@@ -59,11 +127,6 @@
     },
     "MetaWeather.Entity/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.Configuration.Abstractions/2.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

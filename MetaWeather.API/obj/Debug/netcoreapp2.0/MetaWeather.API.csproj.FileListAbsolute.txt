@@ -15,3 +15,20 @@ C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\net
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Entity.pdb
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Common.dll
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Common.pdb
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.deps.json
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.runtimeconfig.json
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.runtimeconfig.dev.json
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.dll
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.pdb
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Common.dll
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Entity.dll
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Orchestration.dll
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Common.pdb
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Orchestration.pdb
+G:\Demo\MetaWeather\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Entity.pdb
+G:\Demo\MetaWeather\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.csprojResolveAssemblyReference.cache
+G:\Demo\MetaWeather\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.csproj.CoreCompileInputs.cache
+G:\Demo\MetaWeather\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.AssemblyInfoInputs.cache
+G:\Demo\MetaWeather\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.AssemblyInfo.cs
+G:\Demo\MetaWeather\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.dll
+G:\Demo\MetaWeather\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.pdb

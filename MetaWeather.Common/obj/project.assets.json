@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nirmal Sheth\\source\\repos\\MetaWeather.API\\MetaWeather.Common\\MetaWeather.Common.csproj",
+      "projectUniqueName": "G:\\Demo\\MetaWeather\\MetaWeather.Common\\MetaWeather.Common.csproj",
       "projectName": "MetaWeather.Common",
-      "projectPath": "C:\\Users\\Nirmal Sheth\\source\\repos\\MetaWeather.API\\MetaWeather.Common\\MetaWeather.Common.csproj",
+      "projectPath": "G:\\Demo\\MetaWeather\\MetaWeather.Common\\MetaWeather.Common.csproj",
       "packagesPath": "C:\\Users\\Nirmal Sheth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nirmal Sheth\\source\\repos\\MetaWeather.API\\MetaWeather.Common\\obj\\",
+      "outputPath": "G:\\Demo\\MetaWeather\\MetaWeather.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

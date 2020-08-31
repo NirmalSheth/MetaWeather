@@ -7,3 +7,12 @@ C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Common\bin\Debug\
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Common\bin\Debug\netcoreapp2.0\MetaWeather.Common.pdb
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.dll
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.pdb
+G:\Demo\MetaWeather\MetaWeather.Common\bin\Debug\netcoreapp2.0\MetaWeather.Common.deps.json
+G:\Demo\MetaWeather\MetaWeather.Common\bin\Debug\netcoreapp2.0\MetaWeather.Common.dll
+G:\Demo\MetaWeather\MetaWeather.Common\bin\Debug\netcoreapp2.0\MetaWeather.Common.pdb
+G:\Demo\MetaWeather\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.csprojResolveAssemblyReference.cache
+G:\Demo\MetaWeather\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.csproj.CoreCompileInputs.cache
+G:\Demo\MetaWeather\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.AssemblyInfoInputs.cache
+G:\Demo\MetaWeather\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.AssemblyInfo.cs
+G:\Demo\MetaWeather\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.dll
+G:\Demo\MetaWeather\MetaWeather.Common\obj\Debug\netcoreapp2.0\MetaWeather.Common.pdb

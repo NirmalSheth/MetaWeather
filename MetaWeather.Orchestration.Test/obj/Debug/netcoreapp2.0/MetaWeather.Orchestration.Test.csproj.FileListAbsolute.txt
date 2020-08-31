@@ -7,3 +7,12 @@ C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Orchestration.Tes
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.AssemblyInfo.cs
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.dll
 C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.pdb
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\bin\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.deps.json
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\bin\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.dll
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\bin\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.pdb
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.csprojResolveAssemblyReference.cache
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.csproj.CoreCompileInputs.cache
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.AssemblyInfoInputs.cache
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.AssemblyInfo.cs
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.dll
+G:\Demo\MetaWeather\MetaWeather.Orchestration.Test\obj\Debug\netcoreapp2.0\MetaWeather.Orchestration.Test.pdb
