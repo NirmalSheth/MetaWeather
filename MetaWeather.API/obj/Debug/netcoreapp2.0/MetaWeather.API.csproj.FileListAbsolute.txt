@@ -1,0 +1,17 @@
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.deps.json
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.runtimeconfig.json
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.runtimeconfig.dev.json
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.dll
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.API.pdb
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.csprojResolveAssemblyReference.cache
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.csproj.CoreCompileInputs.cache
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.AssemblyInfoInputs.cache
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.AssemblyInfo.cs
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.dll
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\obj\Debug\netcoreapp2.0\MetaWeather.API.pdb
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Entity.dll
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Orchestration.dll
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Orchestration.pdb
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Entity.pdb
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Common.dll
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.API\bin\Debug\netcoreapp2.0\MetaWeather.Common.pdb

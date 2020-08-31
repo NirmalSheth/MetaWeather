@@ -1,0 +1,9 @@
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\bin\Debug\netcoreapp2.0\MetaWeather.Entity.deps.json
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\bin\Debug\netcoreapp2.0\MetaWeather.Entity.dll
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\bin\Debug\netcoreapp2.0\MetaWeather.Entity.pdb
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\obj\Debug\netcoreapp2.0\MetaWeather.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\obj\Debug\netcoreapp2.0\MetaWeather.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\obj\Debug\netcoreapp2.0\MetaWeather.Entity.AssemblyInfoInputs.cache
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\obj\Debug\netcoreapp2.0\MetaWeather.Entity.AssemblyInfo.cs
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\obj\Debug\netcoreapp2.0\MetaWeather.Entity.dll
+C:\Users\Nirmal Sheth\source\repos\MetaWeather.API\MetaWeather.Entity\obj\Debug\netcoreapp2.0\MetaWeather.Entity.pdb
