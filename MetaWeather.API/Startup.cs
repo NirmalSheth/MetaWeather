@@ -29,7 +29,7 @@ namespace MetaWeather.API
         {
             services.ConfigureCors();
             services.AddMvc();
-            services.AddTransient<IRestClient, RestClient>();
+            services.AddSingleton<IRestClient, RestClient>();
             services.AddScoped<IMetaWeatherOrchestration, MetaWeatherOrchestration>();
         }
 
